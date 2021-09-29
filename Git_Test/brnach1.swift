@@ -8,5 +8,5 @@
 import Foundation
 
 struct branch1 {
-    print("branch1")
+    
 }
