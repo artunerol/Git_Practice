@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		836B775427044B66007FEFE7 /* brnach1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836B775327044B66007FEFE7 /* brnach1.swift */; };
 		837E2D312703C0BB00F212D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837E2D302703C0BB00F212D1 /* AppDelegate.swift */; };
 		837E2D332703C0BB00F212D1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837E2D322703C0BB00F212D1 /* SceneDelegate.swift */; };
 		837E2D352703C0BB00F212D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837E2D342703C0BB00F212D1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		836B775327044B66007FEFE7 /* brnach1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = brnach1.swift; sourceTree = "<group>"; };
 		837E2D2D2703C0BB00F212D1 /* Git_Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Git_Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		837E2D302703C0BB00F212D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		837E2D322703C0BB00F212D1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				837E2D302703C0BB00F212D1 /* AppDelegate.swift */,
 				837E2D322703C0BB00F212D1 /* SceneDelegate.swift */,
 				837E2D342703C0BB00F212D1 /* ViewController.swift */,
+				836B775327044B66007FEFE7 /* brnach1.swift */,
 				837E2D362703C0BB00F212D1 /* Main.storyboard */,
 				837E2D392703C0BE00F212D1 /* Assets.xcassets */,
 				837E2D3B2703C0BE00F212D1 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				837E2D352703C0BB00F212D1 /* ViewController.swift in Sources */,
 				837E2D312703C0BB00F212D1 /* AppDelegate.swift in Sources */,
 				837E2D332703C0BB00F212D1 /* SceneDelegate.swift in Sources */,
+				836B775427044B66007FEFE7 /* brnach1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
